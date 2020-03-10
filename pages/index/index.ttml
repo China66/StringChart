@@ -1,0 +1,6 @@
+<!-- index.ttml -->
+<view>{{text}}</view>
+<view>{{array[0].msg}}</view>
+
+<!-- 自定义组件 -->
+<mycomponent header-text="MyTitle"></mycomponent>
